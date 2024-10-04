@@ -1,0 +1,10 @@
+E:\HK1_2025\PassWord\DEV\bin\Debug\DEV.exe.config
+E:\HK1_2025\PassWord\DEV\bin\Debug\DEV.exe
+E:\HK1_2025\PassWord\DEV\bin\Debug\DEV.pdb
+E:\HK1_2025\PassWord\DEV\obj\Debug\DEV.csproj.AssemblyReference.cache
+E:\HK1_2025\PassWord\DEV\obj\Debug\DEV.Form1.resources
+E:\HK1_2025\PassWord\DEV\obj\Debug\DEV.Properties.Resources.resources
+E:\HK1_2025\PassWord\DEV\obj\Debug\DEV.csproj.GenerateResource.cache
+E:\HK1_2025\PassWord\DEV\obj\Debug\DEV.csproj.CoreCompileInputs.cache
+E:\HK1_2025\PassWord\DEV\obj\Debug\DEV.exe
+E:\HK1_2025\PassWord\DEV\obj\Debug\DEV.pdb

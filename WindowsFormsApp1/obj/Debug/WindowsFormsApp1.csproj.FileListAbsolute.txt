@@ -1,0 +1,10 @@
+E:\HK1_2025\PassWord\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\HK1_2025\PassWord\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\HK1_2025\PassWord\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\HK1_2025\PassWord\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\HK1_2025\PassWord\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\HK1_2025\PassWord\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\HK1_2025\PassWord\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\HK1_2025\PassWord\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\HK1_2025\PassWord\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\HK1_2025\PassWord\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
